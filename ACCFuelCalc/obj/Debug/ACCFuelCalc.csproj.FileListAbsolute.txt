@@ -1,0 +1,10 @@
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\bin\Debug\ACCFuelCalc.exe.config
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\bin\Debug\ACCFuelCalc.exe
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\bin\Debug\ACCFuelCalc.pdb
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.csprojAssemblyReference.cache
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.Form1.resources
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.Properties.Resources.resources
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.csproj.GenerateResource.cache
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.csproj.CoreCompileInputs.cache
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.exe
+D:\UPOL\C#\ACCFuelCalc\ACCFuelCalc\obj\Debug\ACCFuelCalc.pdb
